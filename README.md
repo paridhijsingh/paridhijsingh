@@ -20,3 +20,7 @@ QA Test Engineering Intern @ SonicWall
 
 Software/MLOps Intern @ Swift Security
 - Worked on Docker-based deployment workflows and ML experimentation pipelines
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=paridhijsingh&show_icons=true)

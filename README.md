@@ -1,16 +1,41 @@
-## Hi there 👋
+# Hi, I'm Paridhi 👋
 
-<!--
-**paridhijsingh/paridhijsingh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI Engineer and Statistics & Data Science graduate from UC Santa Barbara.
 
-Here are some ideas to get you started:
+I build:
+- Generative AI applications
+- Agentic workflows
+- RAG systems
+- Machine learning pipelines
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+
+Languages:
+Python | SQL | R | C++
+
+AI/ML:
+LangGraph | OpenAI SDK | Scikit-learn | Pandas
+
+Engineering:
+FastAPI | Docker | Kubernetes | AWS | Git
+
+## 🚀 Featured Projects
+
+### Agentic Insurance Claims Framework
+Multi-framework AI agent architecture using:
+OpenAI SDK, LangGraph, Anthropic SDK, Google ADK
+
+### Medical Insurance MLOps Pipeline
+End-to-end ML deployment pipeline using:
+FastAPI, Docker, Kubernetes, AWS EKS
+
+### Weather Analytics Engine
+AI-powered FastAPI application integrating:
+OpenAI, APIs, SQL database, Docker
+
+## Currently Exploring
+
+- Retrieval-Augmented Generation (RAG)
+- LLM evaluation
+- AI system design
+- MLOps

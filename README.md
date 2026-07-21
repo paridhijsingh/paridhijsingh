@@ -11,7 +11,7 @@ I build:
 ## 🛠️ Tech Stack
 
 Languages:
-Python | SQL | R | C++
+Python | SQL | R 
 
 AI/ML:
 LangGraph | OpenAI SDK | Scikit-learn | Pandas

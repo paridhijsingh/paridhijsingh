@@ -28,3 +28,5 @@ LinkedIn: https://linkedin.com/in/paridhijsingh
 GitHub: https://github.com/paridhijsingh
 
 Email: paridhijaysingh@gmail.com
+
+Potfolio: https://workwithparidhi.vercel.app/

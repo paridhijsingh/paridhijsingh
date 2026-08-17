@@ -70,8 +70,8 @@ Built production RAG and agentic workflows for document processing:
 ## GitHub stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=paridhijsingh&show_icons=true&theme=transparent&hide_border=true" alt="GitHub stats for paridhijsingh" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paridhijsingh&layout=compact&theme=transparent&hide_border=true" alt="Most used languages for paridhijsingh" />
+  <img height="165" src="https://github-readme-stats.shion.dev/api?username=paridhijsingh&amp;show_icons=true&amp;theme=transparent&amp;hide_border=true" alt="GitHub stats for paridhijsingh" />
+  <img height="165" src="https://github-readme-stats.shion.dev/api/top-langs/?username=paridhijsingh&amp;layout=compact&amp;theme=transparent&amp;hide_border=true" alt="Most used languages for paridhijsingh" />
 </p>
 
 ## Connect

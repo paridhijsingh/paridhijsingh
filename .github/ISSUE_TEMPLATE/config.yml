@@ -1,0 +1,11 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Portfolio
+    url: https://workwithparidhi.vercel.app/
+    about: Personal site for projects and writing.
+  - name: LinkedIn
+    url: https://www.linkedin.com/in/paridhijsingh
+    about: Professional profile and work history.
+  - name: Email
+    url: mailto:paridhijaysingh@gmail.com
+    about: Collaboration or questions that are not repository bugs.

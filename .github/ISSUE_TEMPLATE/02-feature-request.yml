@@ -1,0 +1,45 @@
+name: Feature Request
+description: Suggest a README section, featured project, or community-file improvement
+title: "[Feature]: "
+labels: ["enhancement", "triage"]
+body:
+  - type: markdown
+    attributes:
+      value: Suggest an improvement to this profile README or its community files. For job or collaboration outreach, use the contact links instead of an issue.
+  - type: textarea
+    id: problem
+    attributes:
+      label: What is missing or unclear?
+      description: Describe the gap in the current profile.
+      placeholder: Visitors cannot tell which projects are production work versus experiments.
+    validations:
+      required: true
+  - type: textarea
+    id: proposal
+    attributes:
+      label: Proposed change
+      description: What should be added or rewritten, and where in the README or .github files.
+    validations:
+      required: true
+  - type: dropdown
+    id: area
+    attributes:
+      label: Area
+      options:
+        - Profile README
+        - Contributing or support docs
+        - Issue or pull request templates
+        - Security or license
+        - Something else
+    validations:
+      required: true
+  - type: dropdown
+    id: effort
+    attributes:
+      label: Suggested effort
+      options:
+        - Small (copy or link change)
+        - Medium (new section)
+        - Large (layout or branding change)
+    validations:
+      required: true

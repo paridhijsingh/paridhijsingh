@@ -1,0 +1,11 @@
+{
+  "version": 1,
+  "skills": {
+    "github-repo": {
+      "source": "jdevalk/skills",
+      "sourceType": "github",
+      "skillPath": "github-repo/SKILL.md",
+      "computedHash": "4cb219eaff257415f10f47c7c0e4882e3271b016f902a01c7bc1087b1877effb"
+    }
+  }
+}

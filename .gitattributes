@@ -1,0 +1,4 @@
+# Keep GitHub metadata and community files out of source archives
+.gitattributes export-ignore
+.github export-ignore
+.gitignore export-ignore

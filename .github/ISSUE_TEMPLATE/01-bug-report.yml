@@ -1,0 +1,60 @@
+name: Bug Report
+description: Report a broken link, widget, or incorrect detail on the profile README
+title: "[Bug]: "
+labels: ["bug", "triage"]
+body:
+  - type: markdown
+    attributes:
+      value: Thanks for reporting a problem with this profile README. Please fill out the sections below.
+  - type: textarea
+    id: description
+    attributes:
+      label: What is wrong?
+      description: A clear description of the bug (broken link, missing image, outdated fact, accessibility issue).
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: How to reproduce
+      description: Steps to see the problem on GitHub.
+      placeholder: |
+        1. Open https://github.com/paridhijsingh
+        2. Click the portfolio link
+        3. See 404
+    validations:
+      required: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: Expected behavior
+      description: What should happen instead.
+    validations:
+      required: true
+  - type: dropdown
+    id: severity
+    attributes:
+      label: Severity
+      options:
+        - Low (typo or cosmetic)
+        - Medium (broken link or missing section)
+        - High (wrong professional facts)
+        - Critical (exposed secret or malicious link)
+    validations:
+      required: true
+  - type: dropdown
+    id: where
+    attributes:
+      label: Where did you see it?
+      options:
+        - GitHub profile page
+        - This repository's README tab
+        - Another page (describe below)
+    validations:
+      required: true
+  - type: textarea
+    id: environment
+    attributes:
+      label: Environment
+      description: Browser, OS, and whether you were signed in to GitHub.
+      placeholder: Safari 18, macOS, signed out
